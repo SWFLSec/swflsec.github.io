@@ -14,4 +14,4 @@ SWFLSec is an inclusive and diverse community, welcoming to all. Participants at
 
 ### Imposter Syndrome Disclaimer
 
-SWFLSec welcomes all skill and experience levels to participate. We believe everyone can contribute and welcome beginners, experts, and everyone inbetween to be a part our meetings both as participants and contributors. Please read our [Imposter Syndrome Disclaimer](impostersyndrome.html)
+SWFLSec welcomes all skill and experience levels to participate. We believe everyone can contribute and welcome beginners, experts, and everyone inbetween to be a part of our meetings both as participants and contributors. Please read our [Imposter Syndrome Disclaimer](impostersyndrome.html)
