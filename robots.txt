@@ -1,1 +1,2 @@
-dcg239
+User-agent: *
+Disallow: /evidence/
