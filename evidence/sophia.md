@@ -1,4 +1,4 @@
-![Sophia Singh](../assets/sophia.jpg)
+![Sophia Singh](../assets/img/sophia.jpg)
 
 Name: Sophia Singh
 
