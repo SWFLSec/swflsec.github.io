@@ -4,7 +4,7 @@ description: Join us for Hackation, a 1-day cybersecurity event celebrating SWFL
 keywords: cybersecurity, SWFLSec, Hackation, Fort Myers, InfoSec, presentations, exhibits, demonstrations, hands-on activities
 ---
 
-## Hackation2024 | Come for the hacks, stay for the beaches
+<h2 style="text-align: center;">Hackation 2024 | Come for the hacks, stay for the beaches</h2>
 
 ![Hackation Banner](images/hackation-banner.jpg)
 
