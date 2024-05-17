@@ -1,7 +1,7 @@
 ---
 title: Hackation 2024 | Southwest Florida InfoSec Community
-description: Join us for Hackation, a 1-day cybersecurity event celebrating SWFLSec's 5th anniversary. Enjoy presentations, exhibits, demonstrations, and hands-on activities in a beautiful beach setting.
-keywords: cybersecurity, SWFLSec, Hackation, Fort Myers, InfoSec, presentations, exhibits, demonstrations, hands-on activities, beach event
+description: Join us for Hackation, a 1-day cybersecurity event celebrating SWFLSec's 5th anniversary. Enjoy presentations, exhibits, demonstrations, and hands-on activities in Ft Myers, FL along the beautiful gulf goast.
+keywords: cybersecurity, SWFLSec, Hackation, Fort Myers, InfoSec, presentations, exhibits, demonstrations, hands-on activities
 ---
 
 ![Hackation Banner](images/hackation-banner.jpg)
