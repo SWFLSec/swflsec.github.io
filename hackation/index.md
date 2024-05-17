@@ -6,6 +6,16 @@ keywords: cybersecurity, SWFLSec, Hackation, Fort Myers, InfoSec, presentations,
 
 ![Hackation Banner](images/hackation-banner.jpg)
 
+<div style="display: flex; gap: 1em; flex-wrap: wrap;">
+  <a href="registration.md">Registration</a> |
+  <a href="sponsors.md">Sponsors</a> |
+  <a href="speakers.md">Speakers</a> |
+  <a href="villages.md">Villages</a> |
+  <a href="call-for-presentations.md">Call for Presentations</a> |
+  <a href="call-for-sponsors.md">Call for Sponsors</a> |
+  <a href="call-for-volunteers.md">Call for Volunteers</a>
+</div>
+
 # Hackation
 ### Come for the hacks, stay for the beaches
 
@@ -22,15 +32,5 @@ keywords: cybersecurity, SWFLSec, Hackation, Fort Myers, InfoSec, presentations,
 **6:00 PM** - TBD  
 
 ---
-
-## Additional Information
-
-- [Registration](registration.md)
-- [Sponsors](sponsors.md)
-- [Speakers](speakers.md)
-- [Villages](villages.md)
-- [Call for Presentations](call-for-presentations.md)
-- [Call for Sponsors](call-for-sponsors.md)
-- [Call for Volunteers](call-for-volunteers.md)
 
 ![Beach Sunset](images/beach-sunset.jpg)
