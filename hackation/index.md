@@ -9,13 +9,13 @@ keywords: cybersecurity, SWFLSec, Hackation, Fort Myers, InfoSec, presentations,
 ![Hackation Banner](images/hackation-banner.jpg)
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <a href="registration.md">Registration</a> |
-  <a href="sponsors.md">Sponsors</a> |
-  <a href="speakers.md">Speakers</a> |
-  <a href="villages.md">Villages</a> |
-  <a href="call-for-presentations.md">Call for Presentations</a> |
-  <a href="call-for-sponsors.md">Call for Sponsors</a> |
-  <a href="call-for-volunteers.md">Call for Volunteers</a>
+  <a href="registration">Registration</a> |
+  <a href="sponsors">Sponsors</a> |
+  <a href="speakers">Speakers</a> |
+  <a href="villages">Villages</a> |
+  <a href="call-for-presentations">Call for Presentations</a> |
+  <a href="call-for-sponsors">Call for Sponsors</a> |
+  <a href="call-for-volunteers">Call for Volunteers</a>
 </div>
 
 **Date:** June 29, 2024  
