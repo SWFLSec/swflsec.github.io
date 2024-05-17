@@ -30,6 +30,3 @@ keywords: cybersecurity, SWFLSec, Hackation, Fort Myers, InfoSec, presentations,
 **5:00 - 5:15 PM** - Closing Ceremonies  
 **6:00 PM** - TBD  
 
----
-
-![Beach Sunset](images/beach-sunset.jpg)
