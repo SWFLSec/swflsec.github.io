@@ -6,6 +6,7 @@ keywords: call for presentations, Hackation, SWFLSec, cybersecurity event
 <h2 style="text-align: center;">Hackation 2024 | Call for Presentations</h2>
 
 ![Hackation Banner](images/hackation-banner.jpg)
+
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href="registration">Registration</a> |
   <a href="sponsors">Sponsors</a> |
@@ -15,7 +16,6 @@ keywords: call for presentations, Hackation, SWFLSec, cybersecurity event
   <a href="call-for-volunteers">Call for Volunteers</a> |
   <a href="https://forms.gle/BJsMjZXm45aiE7qm8">Contact Us</a>
 </div>
-
 
 Our Call for Presentations (CFP) is currently open. We will have 20min and 40min slots available. Submit your presentation using this [Google Form](https://forms.gle/HQZUdGRngn1okt2s9)
 
