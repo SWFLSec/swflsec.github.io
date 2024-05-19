@@ -4,7 +4,19 @@ description: Volunteer at Hackation 2024 and be part of a cybersecurity event by
 keywords: call for volunteers, Hackation, SWFLSec, cybersecurity event
 ---
 
-# Hackation 2024 Call for Volunteers
+<h2 style="text-align: center;">Hackation 2024 | Call for Volunteers</h2>
+
+![Hackation Banner](images/hackation-banner.jpg)
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <a href="registration">Registration</a> |
+  <a href="sponsors">Sponsors</a> |
+  <a href="speakers">Speakers</a> |
+  <a href="villages">Villages</a> |
+  <a href="call-for-presentations">Call for Presentations</a> |
+  <a href="call-for-volunteers">Call for Volunteers</a> |
+  <a href="https://forms.gle/BJsMjZXm45aiE7qm8">Contact Us</a>
+</div>
 
 Our Call for Volunteers (CFV) is currently open. The normal operations of even small events requires many volunteers. Submit the following [Google Form](https://forms.gle/dN7NpkUuU1DGnpG87) to be considered for volunteering!
 
