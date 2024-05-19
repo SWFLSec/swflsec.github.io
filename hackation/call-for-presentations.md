@@ -28,41 +28,41 @@ SWFLSec and Hackation 2024 do not provide honorariums or travel assistance for s
 
 - System security
 
- - Operating systems security
+  - Operating systems security
 
- - Web security
+  - Web security
 
- - Mobile systems security
+  - Mobile systems security
 
- - Distributed systems security
+  - Distributed systems security
 
- - Cloud computing security
+  - Cloud computing security
 
 - Network security
 
- - Intrusion and anomaly detection and prevention
+  - Intrusion and anomaly detection and prevention
 
- - Network infrastructure security
+  - Network infrastructure security
 
- - Denial-of-service attacks and countermeasures
+  - Denial-of-service attacks and countermeasures
 
- - Wireless security
+  - Wireless security
 
 - Security analysis
 
- - Malware analysis
+  - Malware analysis
 
- - Analysis of network and security protocols
+  - Analysis of network and security protocols
 
- - Attacks with novel insights, techniques, or results
+  - Attacks with novel insights, techniques, or results
 
- - Forensics and diagnostics for security
+  - Forensics and diagnostics for security
 
- - Automated security analysis of hardware designs and implementation
+  - Automated security analysis of hardware designs and implementation
 
- - Automated security analysis of source code and binaries
+  - Automated security analysis of source code and binaries
 
- - Program analysis
+  - Program analysis
 
 - Privacy-enhancing technologies and anonymity
 
@@ -72,12 +72,12 @@ SWFLSec and Hackation 2024 do not provide honorariums or travel assistance for s
 
 - Hardware security
 
- - Secure computer architectures
+  - Secure computer architectures
 
- - Embedded systems security
+  - Embedded systems security
 
- - Methods for detection of malicious or counterfeit hardware
+  - Methods for detection of malicious or counterfeit hardware
 
- - Side channels
+  - Side channels
 
  Submit your presentation using this [Google Form](https://forms.gle/HQZUdGRngn1okt2s9)
