@@ -4,6 +4,18 @@ description: Register for Hackation 2024 and join us for a day of cybersecurity 
 keywords: registration, Hackation, SWFLSec, cybersecurity event
 ---
 
-# Registration
+<h2 style="text-align: center;">Hackation 2024 | Registration</h2>
+
+![Hackation Banner](images/hackation-banner.jpg)
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <a href="registration">Registration</a> |
+  <a href="sponsors">Sponsors</a> |
+  <a href="speakers">Speakers</a> |
+  <a href="villages">Villages</a> |
+  <a href="call-for-presentations">Call for Presentations</a> |
+  <a href="call-for-volunteers">Call for Volunteers</a> |
+  <a href="https://forms.gle/BJsMjZXm45aiE7qm8">Contact Us</a>
+</div>
 
 Registration is now open! This is an in-person only event capped at 75 attendees. Register at our [Eventbrite](https://www.eventbrite.com/e/hackation-2024-come-for-the-hacks-stay-for-the-beaches-tickets-909055097267?aff=oddtdtcreator) page.
