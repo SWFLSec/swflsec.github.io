@@ -6,6 +6,63 @@ keywords: speakers, Hackation, SWFLSec, cybersecurity event
 
 # Speakers
 
-Stay tuned for speaker announcements!
+Our Call for Presentations (CFP) is currently open. We will have 20min and 45min slots available. Stay tuned for speaker announcements!
 
-![Beach Umbrella](images/beach-umbrella.jpg)
+<table border="1">
+  <tr>
+    <th>Time</th>
+    <th>Title</th>
+    <th>Speaker</th>
+  </tr>
+  <tr>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td>TBD</td>
+  </tr>
+</table>
+
