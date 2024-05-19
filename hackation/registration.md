@@ -6,6 +6,4 @@ keywords: registration, Hackation, SWFLSec, cybersecurity event
 
 # Registration
 
-Stay tuned for registration details!
-
-![Beach Chairs](images/beach-chairs.jpg)
+Registration is now open! This is an in-person only event capped at 75 attendees. Register at our [Eventbrite](https://www.eventbrite.com/e/hackation-2024-come-for-the-hacks-stay-for-the-beaches-tickets-909055097267?aff=oddtdtcreator) page.
