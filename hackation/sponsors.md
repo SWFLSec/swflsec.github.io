@@ -22,9 +22,9 @@ Our Call for Sponsors is currently open. Below are the categories we are still l
 We are grateful to our sponsors for their support!
 
 ## Badge Sponsor
-
+![Red Defender Information Security](./images/Red_Defender-w.jpg)
 ## Lanyard Sponsor
-
+![Red Defender Information Security](./images/Red_Defender-w.jpg)
 ## Training and Certifications Sponsors
 
 ## Food Sponsor
@@ -36,5 +36,7 @@ We are grateful to our sponsors for their support!
 ## Intranet Sponsor
 
 ## A/V Sponsor
+
+## Swag
 
 ## Other
