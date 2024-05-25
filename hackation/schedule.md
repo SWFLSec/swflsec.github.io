@@ -21,61 +21,16 @@ keywords: speakers, Hackation, SWFLSec, cybersecurity event
 
 Our Call for Presentations (CFP) is currently open. We will have 20min and 40min slots available. Stay tuned for presentation announcements!
 
-<table border="1">
-  <tr>
-    <th>Time</th>
-    <th>Title</th>
-    <th>Speaker</th>
-  </tr>
-  <tr>
-    <td>12:00PM - 12:30PM</td>
-    <td>Opening Ceremonies and Introductions</td>
-    <td>Organizers, Villages, Groups</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-</table>
-
+| Time                  | Title                               | Speaker                      |
+|-----------------------|-------------------------------------|------------------------------|
+| 11:00AM - 12:00PM     | Arrival and Registration, Villages and Exhibits open |  |
+| 12:00PM - 12:30PM     | Opening Ceremonies and Introductions | Organizers, Villages, Groups |
+| TBD                   | TBD                                 | TBD                          |
+| TBD                   | TBD                                 | TBD                          |
+| TBD                   | TBD                                 | TBD                          |
+| TBD                   | TBD                                 | TBD                          |
+| TBD                   | TBD                                 | TBD                          |
+| TBD                   | TBD                                 | TBD                          |
+| TBD                   | TBD                                 | TBD                          |
+| TBD                   | TBD                                 | TBD                          |
+| 5:30PM - 6:00PM       | Closing Ceremonies and Remarks      | Organizers                   |
