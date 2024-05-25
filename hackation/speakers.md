@@ -21,61 +21,12 @@ keywords: speakers, Hackation, SWFLSec, cybersecurity event
 
 Our Call for Presentations (CFP) is currently open. We will have 20min and 40min slots available. Stay tuned for presentation announcements!
 
-<table border="1">
-  <tr>
-    <th>Time</th>
-    <th>Title</th>
-    <th>Speaker</th>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-  <tr>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
-  </tr>
-</table>
+Listed below in no particular order are our speakers and presentations.
+
+| Name                  | Bio                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Presentation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| R1otctrl              | Hi! I’m Riøt, SOCC analyst by day, warwheeler by night My hacker circles are the #Wardriving group on WiGLE, DCG561/305 & Boca 2600. My Onewheel peoples are SoFlow, Float Gang, & Orlando Onewheel My favorite form of touching grass hands down is going out on long rides on the Onewheel. It gives me a challenge to stress test wardriving rigs that can survive the elements when I’m out exploring Still very new to RF but the past year has all been a learning period of what works and how to squeeze out every AP while trying to stay lightweight. Over the past year posting on my IG warwheeling content I have found a few others that also prefer this method of wardriving so it’s slowly growing trend wise | Warwheeling: The Wireless Sk8r<br><br> Welcome to the next generation of wardriving, where we encourage you to step outside, breathe in the fresh air, and shred the streets as you’re collecting ALL the WIFI. In this presentation, we'll dive into the world of Warwheeling, a novel twist on wardriving that involves using a onewheel or any PEV as your mobile exploration hub.                                                                                                                             |
+| David Probinsky       | David Probinsky is a renowned cybersecurity expert specializing in hacking and red teaming. With over a decade of experience, David excels in physical security, social engineering, and covert methods of entry (CMoE). He has conducted high-stakes security assessments for companies across many industries and sectors, identifying critical vulnerabilities in both digital and physical infrastructures. David is known for his technical proficiency in lockpicking, WiFi hacking, and advanced social engineering tactics. He regularly shares his expertise through CMoE workshops and monthly lockpicking meetups in Orlando, FL, fostering a community of security professionals. As a sought-after speaker and educator, David continues to push the boundaries of security, helping organizations stay ahead of evolving threats. | Stealth H4cks: Breaking into Red Teaming with Covert Entry<br><br> This presentation introduces entry-level professionals to the fundamentals of red teaming, focusing on Covert Methods of Entry (CMoE).                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Totally_Not_A_Haxxer  | 17 year old cybersecurity researcher who has worked on various projects such as researching vehicles, building PCBs, authoring books, building programming languages from scratch for exploit development and security operations and I spend a lot of time writing content, teaching people how to do things such as reverse engineering, API security, binary exploitation, and more. I have also had numerous jobs from Guided Hacking & The Safer Internet Projects to bigger companies like Block Harbor Cybersecurity and even companies where everything I did was under a ghost contract base. (these are contracts never brought up on paper) I also have a numerous amount of experience in both development and cybersecurity outside of research ranging from legacy programming languages like Fortran95 and modern languages like Go whilst also carrying myself from IoT hacking all the way down to tearing infrastructure designs up for fun. | Breaking The Grounds - Ripping IoT Devices Digitally<br><br> This presentation is about a research paper I wrote (but never released) called Breaking The Grounds - Researching IoT Devices On A Mass Scale which meant that I was kind of going around touching each device as much as I could without ripping out the hardware. During this research I had - reverse engineered proprietary file formats, discovered multiple vulnerabilities and flaws within systems, and even found a way to mass automate this with a framework I call Caster. A framework that automates the shutting off of TVs and different devices, automates internal network automation and more most importantly built using my own programming language. During the research I had completely enumerated over 5 different devices from brands like Amazon, Google, Roku, Apple, etc and found ways to - shut off the TVs remotely, upload content that was not allowed, send and upload files without specific auth and even issues within the transport of data. |
+| fro                   | Attended a technical institute in the early 2000's. Engineer for Harley Davidson, Yamaha, and Kawasaki. I attended UCF cybersecurity school in 2019. volunteer for Bsides Orlando. Intern at NaveSecurityLLC as a scrum master. My hobbies outside of computers. I love the outdoors going fishing/Phishing and boating. I enjoy hiking and watching/taking pictures of wildlife in their environment. and I also grow plants and vegetables of all kinds. You would say I have a green thumb.                                                                                          | Not Yo Mommas Kerberoast<br><br> We dive into AD, AD hierarchy, kerberos authentication , kerberoasting attacks, and tools used. We do a demo show casing these tools and talk about mitigations towards the end of the talk.                                                                                                                                                                                                                                                                                                                                                                            |
 
