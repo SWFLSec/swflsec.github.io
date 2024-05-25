@@ -12,6 +12,7 @@ keywords: registration, Hackation, SWFLSec, cybersecurity event
   <a href="registration">Registration</a> |
   <a href="sponsors">Sponsors</a> |
   <a href="speakers">Speakers</a> |
+  <a href="schedule">Schedule</a> |
   <a href="villages">Villages</a> |
   <a href="call-for-presentations">Call for Presentations</a> |
   <a href="call-for-volunteers">Call for Volunteers</a> |
