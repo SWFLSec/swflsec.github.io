@@ -28,7 +28,7 @@ We are grateful to our sponsors for their support!
 ![Red Defender Information Security](./images/Red_Defender-w.jpg)
 ## Swag
 ![Black Hills Information Security](./images/BHIS-logo-web.png)
-<hr>
+</hr>
 ![Active Countermeasures](./images/active_countermeasures_logo_360.png)
 ## Discount Code Sponsors
 ![No Starch Press](./images/NSPLogo.jpg)
