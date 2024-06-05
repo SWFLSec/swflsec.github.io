@@ -26,12 +26,12 @@ We are grateful to our sponsors for their support!
 ![Red Defender Information Security](./images/Red_Defender-w.jpg)
 ## Lanyard Sponsor
 ![Red Defender Information Security](./images/Red_Defender-w.jpg)
-## Discount Code Sponsors
-![No Starch Press](./images/NSPLogo.jpg)
 ## Swag
 ![Black Hills Information Security](./images/BHIS-logo-web.png)
+---
 ![Active Countermeasures](./images/active_countermeasures_logo_360.png)
-
+## Discount Code Sponsors
+![No Starch Press](./images/NSPLogo.jpg)
 ## Training and Certifications Sponsors
 
 ## Food Sponsor
