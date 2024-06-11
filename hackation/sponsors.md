@@ -32,6 +32,8 @@ We are grateful to our sponsors for their support!
 ![Active Countermeasures](./images/active_countermeasures_logo_360.png)
 ## Discount Code Sponsors
 ![No Starch Press](./images/NSPLogo.jpg)
+## License Sponsors
+![Binary Ninja](./images/text-for-light-background.png)
 ## Training and Certifications Sponsors
 
 ## Food Sponsor
