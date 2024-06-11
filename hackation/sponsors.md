@@ -27,13 +27,13 @@ We are grateful to our sponsors for their support!
 ## Lanyard Sponsor
 ![Red Defender Information Security](./images/Red_Defender-w.jpg)
 ## Swag
-![Black Hills Information Security](./images/BHIS-logo-web.png)
+[![Black Hills Information Security](./images/BHIS-logo-web.png)](https://www.blackhillsinfosec.com/)
 
-![Active Countermeasures](./images/active_countermeasures_logo_360.png)
+[![Active Countermeasures](./images/active_countermeasures_logo_360.png)](https://www.activecountermeasures.com/)
 ## Discount Code Sponsors
-![No Starch Press](./images/NSPLogo.jpg)
+[![No Starch Press](./images/NSPLogo.jpg)](https://nostarch.com)
 ## License Sponsors
-![Binary Ninja](./images/text-for-light-background.png)
+[![Binary Ninja](./images/text-for-light-background.png)](https://binary.ninja/)
 ## Training and Certifications Sponsors
 
 ## Food Sponsor
