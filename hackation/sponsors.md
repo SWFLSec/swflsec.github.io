@@ -30,6 +30,8 @@ We are grateful to our sponsors for their support!
 [![Black Hills Information Security](./images/BHIS-logo-web.png)](https://www.blackhillsinfosec.com/)
 
 [![Active Countermeasures](./images/active_countermeasures_logo_360.png)](https://www.activecountermeasures.com/)
+
+[![Guidepoint Security](./images/GPS_Horizontal_White_Text_RGB.png)(https://www.guidepointsecurity.com/)]
 ## Discount Code Sponsors
 [![No Starch Press](./images/NSPLogo.jpg)](https://nostarch.com)
 ## License Sponsors
