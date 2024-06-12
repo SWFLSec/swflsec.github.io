@@ -26,7 +26,7 @@ This is a chance to share about that thing you are really good at, just getting 
 
 Presenters are expected to bring their own devices, although it may be possible to work with those who only are able to bring slide decks. A limited range of adapters may be available, but better to plan to bring your own, just in case.  
 
-The more information you share ahead of time the more we have to base our selections on.  The submission deadline is June 8, 2024.
+The more information you share ahead of time the more we have to base our selections on.  The submission deadline is June 15, 2024.
 
 SWFLSec and Hackation 2024 do not provide honorariums or travel assistance for speakers. We apologize if this impacts your ability to present.  
 
