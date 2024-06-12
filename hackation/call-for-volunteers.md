@@ -27,7 +27,7 @@ Volunteering for a 1-day cybersecurity event offers numerous benefits that exten
 
 Furthermore, volunteering at such events can significantly boost your resume and professional profile. It demonstrates a commitment to the cybersecurity community and showcases your willingness to go beyond the classroom or workplace to further your expertise. Volunteering also helps develop soft skills such as communication, teamwork, and problem-solving, which are highly valued in any profession. Overall, volunteering at a cybersecurity event is a rewarding experience that fosters personal and professional growth while contributing to the greater good of the cybersecurity community.
 
-The more information you share ahead of time the more we have to base our selections on. The volunteer submission deadline is June 8, 2024.
+The more information you share ahead of time the more we have to base our selections on. The volunteer submission deadline is June 15, 2024.
 
 SWFLSec and Hackation 2024 do not provide honorariums or travel assistance for volunteers. We apologize if this impacts your ability to volunteer at our event.  
 
