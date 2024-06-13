@@ -28,22 +28,25 @@ We are grateful to our sponsors for their support!
 ![Red Defender Information Security](./images/Red_Defender-w.jpg)
 ## Swag
 <a href="https://www.blackhillsinfosec.com/">
-<img src="./images/BHIS-logo-web.png" alt="Black Hills Information Security" width="300">
-</a>
+<img src="./images/BHIS-logo-web.png" alt="Black Hills Information Security" width="640">
+</a></br></br>
 <a href="https://www.activecountermeasures.com/">
-<img src="./images/active_countermeasures_logo_360.png" alt="Active Countermeasures" width="300">
-</a>
+<img src="./images/active_countermeasures_logo_360.png" alt="Active Countermeasures" height="75">
+</a></br></br>
 <a href="https://www.guidepointsecurity.com/">
-<img src="./images/GPS_Vertical_Black_Text_RGB.png" alt="Guidepoint Security" width="300">
-</a>
-## Discount Code Sponsors
+<img src="./images/GPS_Vertical_Black_Text_RGB.png" alt="Guidepoint Security" height="186">
+</a></br>
+
+## Discount Code Sponsors</br>
 <a href="https://nostarch.com">
-<img src="./images/NSPLogo.jpg" alt="No Starch Press" width="300">
-</a>
-## License Sponsors
+<img src="./images/NSPLogo.jpg" alt="No Starch Press" height="186">
+</a></br>
+
+## License Sponsors</br>
 <a href="https://binary.ninja/">
-<img src="./images/text-for-light-background.png" alt="Binary Ninja" width="300">
-</a>
+<img src="./images/text-for-light-background.png" alt="Binary Ninja" height="186">
+</a></br>
+
 ## Training and Certifications Sponsors
 
 ## Food Sponsor
