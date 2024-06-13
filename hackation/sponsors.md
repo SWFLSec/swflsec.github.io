@@ -31,7 +31,7 @@ We are grateful to our sponsors for their support!
 <img src="./images/BHIS-logo-web.png" alt="Black Hills Information Security" width="640">
 </a></br></br>
 <a href="https://www.activecountermeasures.com/">
-<img src="./images/active_countermeasures_logo_360.png" alt="Active Countermeasures" height="75">
+<img src="./images/active_countermeasures_logo_360.png" alt="Active Countermeasures" height="50">
 </a></br></br>
 <a href="https://www.guidepointsecurity.com/">
 <img src="./images/GPS_Vertical_Black_Text_RGB.png" alt="Guidepoint Security" height="186">
@@ -44,7 +44,7 @@ We are grateful to our sponsors for their support!
 
 ## License Sponsors</br>
 <a href="https://binary.ninja/">
-<img src="./images/text-for-light-background.png" alt="Binary Ninja" height="186">
+<img src="./images/text-for-light-background.png" alt="Binary Ninja" height="240">
 </a></br>
 
 ## Training and Certifications Sponsors
