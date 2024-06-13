@@ -27,15 +27,23 @@ We are grateful to our sponsors for their support!
 ## Lanyard Sponsor
 ![Red Defender Information Security](./images/Red_Defender-w.jpg)
 ## Swag
-[![Black Hills Information Security](./images/BHIS-logo-web.png)](https://www.blackhillsinfosec.com/)
-
-[![Active Countermeasures](./images/active_countermeasures_logo_360.png)](https://www.activecountermeasures.com/)
-
-[![Guidepoint Security](./images/GPS_Vertical_Black_Text_RGB.png)](https://www.guidepointsecurity.com/)
+<a href="https://www.blackhillsinfosec.com/">
+<img src="./images/BHIS-logo-web.png" alt="Black Hills Information Security" width="300">
+</a>
+<a href="https://www.activecountermeasures.com/">
+<img src="./images/active_countermeasures_logo_360.png" alt="Active Countermeasures" width="300">
+</a>
+<a href="https://www.guidepointsecurity.com/">
+<img src="./images/GPS_Vertical_Black_Text_RGB.png" alt="Guidepoint Security" width="300">
+</a>
 ## Discount Code Sponsors
-[![No Starch Press](./images/NSPLogo.jpg)](https://nostarch.com)
+<a href="https://nostarch.com">
+<img src="./images/NSPLogo.jpg" alt="No Starch Press" width="300">
+</a>
 ## License Sponsors
-[![Binary Ninja](./images/text-for-light-background.png)](https://binary.ninja/)
+<a href="https://binary.ninja/">
+<img src="./images/text-for-light-background.png" alt="Binary Ninja" width="300">
+</a>
 ## Training and Certifications Sponsors
 
 ## Food Sponsor
