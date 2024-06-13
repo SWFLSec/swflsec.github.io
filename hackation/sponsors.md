@@ -29,23 +29,25 @@ We are grateful to our sponsors for their support!
 ## Swag
 <a href="https://www.blackhillsinfosec.com/">
 <img src="./images/BHIS-logo-web.png" alt="Black Hills Information Security" width="640">
-</a></br></br>
+</a><br><br>
 <a href="https://www.activecountermeasures.com/">
 <img src="./images/active_countermeasures_logo_360.png" alt="Active Countermeasures" height="50">
-</a></br></br>
+</a><br><br>
 <a href="https://www.guidepointsecurity.com/">
 <img src="./images/GPS_Vertical_Black_Text_RGB.png" alt="Guidepoint Security" height="186">
-</a></br>
+</a><br>
 
-## Discount Code Sponsors</br>
+## Discount Code Sponsors
+
 <a href="https://nostarch.com">
 <img src="./images/NSPLogo.jpg" alt="No Starch Press" height="186">
-</a></br>
+</a><br>
 
-## License Sponsors</br>
+## License Sponsors
+
 <a href="https://binary.ninja/">
 <img src="./images/text-for-light-background.png" alt="Binary Ninja" height="240">
-</a></br>
+</a><br>
 
 ## Training and Certifications Sponsors
 
