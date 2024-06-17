@@ -19,7 +19,7 @@ keywords: call for volunteers, Hackation, SWFLSec, cybersecurity event
   <a href="https://forms.gle/BJsMjZXm45aiE7qm8">Contact Us</a>
 </div>
 
-Our Call for Volunteers (CFV) is currently open. The normal operations of even small events requires many volunteers. Submit the following [Google Form](https://forms.gle/dN7NpkUuU1DGnpG87) to be considered for volunteering!
+Our Call for Volunteers (CFV) is now closed. Thank you everyone who submitted to become a volunteer. The normal operations of even small events requires many volunteers. 
 
 __**Why Should You Volunteer?**__
 
@@ -30,5 +30,3 @@ Furthermore, volunteering at such events can significantly boost your resume and
 The more information you share ahead of time the more we have to base our selections on. The volunteer submission deadline is June 15, 2024.
 
 SWFLSec and Hackation 2024 do not provide honorariums or travel assistance for volunteers. We apologize if this impacts your ability to volunteer at our event.  
-
-Submit the following [Google Form](https://forms.gle/dN7NpkUuU1DGnpG87) to be considered for volunteering!
