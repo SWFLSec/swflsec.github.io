@@ -18,7 +18,7 @@ keywords: call for presentations, Hackation, SWFLSec, cybersecurity event
   <a href="https://forms.gle/BJsMjZXm45aiE7qm8">Contact Us</a>
 </div>
 
-Our Call for Presentations (CFP) is currently open. We will have 20min and 40min slots available. Submit your presentation using this [Google Form](https://forms.gle/HQZUdGRngn1okt2s9)
+Our Call for Presentations (CFP) is now closed.  Thank you everyone who submitted a proposal. 
 
 __**Who Should Submit?**__
 
