@@ -32,3 +32,8 @@ Discover local organizations, interactive villages, and participate in hands-on 
 - [SWFL Coders](https://www.meetup.com/SWFL-Coders)
 - [SWFL Hackerspace](https://www.meetup.com/swfl-hackerspace/)
 - [Music Products of SWFL](https://www.meetup.com/music-producers-of-swfl/)
+
+## Schools
+
+- [Keiser University](https://www.keiseruniversity.edu)
+- [Florida Southwestern State College](https://www.fsw.edu)
