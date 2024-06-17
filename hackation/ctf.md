@@ -1,7 +1,7 @@
 ---
-title: Villages | Hackation 2024
-description: Explore the interactive villages at Hackation 2024, offering hands-on cybersecurity activities and demonstrations.
-keywords: villages, Hackation, SWFLSec, cybersecurity event, hands-on activities
+title: Capture the Flag | CTF | Hackation 2024
+description: Compete in the Capture the Flag (CTF) contest at Hackation 2024.
+keywords: Hackation, SWFLSec, cybersecurity event, hands-on activities, ctf, capture the flag
 ---
 
 <h2 style="text-align: center;">Hackation 2024 | Capture the Flag</h2>
