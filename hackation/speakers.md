@@ -14,12 +14,9 @@ keywords: speakers, Hackation, SWFLSec, cybersecurity event
   <a href="speakers">Speakers</a> |
   <a href="schedule">Schedule</a> |
   <a href="villages">Villages</a> |
-  <a href="call-for-presentations">Call for Presentations</a> |
-  <a href="call-for-volunteers">Call for Volunteers</a> |
+  <a href="ctf">Capture the Flag</a> |
   <a href="https://forms.gle/BJsMjZXm45aiE7qm8">Contact Us</a>
 </div>
-
-Our Call for Presentations (CFP) is currently open. We will have 20min and 40min slots available. Stay tuned for presentation announcements!
 
 Listed below in no particular order are our speakers and presentations.
 
