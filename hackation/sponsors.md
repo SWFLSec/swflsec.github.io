@@ -52,7 +52,7 @@ We are grateful to our sponsors for their support!
 ## Training and Certifications Sponsors
 
 <a href="https://academy.tcm-sec.com/">
-<img src="./images/tcm-logo.png" alt="TCM Security Academy" height=240">
+<img src="./images/tcm-logo.png" alt="TCM Security Academy" height="240">
 </a><br>
 
 ## Food Sponsor
