@@ -14,8 +14,7 @@ keywords: cybersecurity, SWFLSec, Hackation, Fort Myers, InfoSec, presentations,
   <a href="speakers">Speakers</a> |
   <a href="schedule">Schedule</a> |
   <a href="villages">Villages</a> |
-  <a href="call-for-presentations">Call for Presentations</a> |
-  <a href="call-for-volunteers">Call for Volunteers</a> |
+  <a href="ctf">Capture the Flag</a> |
   <a href="https://forms.gle/BJsMjZXm45aiE7qm8">Contact Us</a>
 </div>
 
