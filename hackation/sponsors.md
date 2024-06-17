@@ -19,7 +19,8 @@ keywords: sponsors, Hackation, SWFLSec, cybersecurity event
   <a href="https://forms.gle/BJsMjZXm45aiE7qm8">Contact Us</a>
 </div>
 
-Our Call for Sponsors is currently open. Below are the categories we are still looking for sponsors to fill. If interested in sponsoring any of the below items, please fill out the following [Google Form](https://forms.gle/EFr5Tz6N1TefYtQt9) 
+Our Call for Sponsors is now closed. Thank you everyone who submitted to be a sponsor. 
+
 We are grateful to our sponsors for their support!
 
 ## Badge Sponsor
@@ -50,6 +51,10 @@ We are grateful to our sponsors for their support!
 </a><br>
 
 ## Training and Certifications Sponsors
+
+<a href="https://academy.tcm-sec.com/">
+<img src="./images/tcm-logo.png" alt="TCM Security Academy" height=240">
+</a><br>
 
 ## Food Sponsor
 
