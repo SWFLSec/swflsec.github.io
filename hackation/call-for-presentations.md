@@ -92,4 +92,3 @@ SWFLSec and Hackation 2024 do not provide honorariums or travel assistance for s
 
   - Side channels
 
- Submit your presentation using this [Google Form](https://forms.gle/HQZUdGRngn1okt2s9)
