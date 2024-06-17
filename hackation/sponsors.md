@@ -9,8 +9,8 @@ keywords: sponsors, Hackation, SWFLSec, cybersecurity event
 ![Hackation Banner](images/hackation-banner.jpg)
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <a href="index">Main</a> |
   <a href="registration">Registration</a> |
-  <a href="sponsors">Sponsors</a> |
   <a href="speakers">Speakers</a> |
   <a href="schedule">Schedule</a> |
   <a href="villages">Villages</a> |
