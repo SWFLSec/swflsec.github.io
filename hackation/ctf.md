@@ -25,6 +25,8 @@ Compete in the Hackation 2024 Capture the Flag!
 - Laptop, Intel/AMD x86-64 architecture
 - Ability to run virtual machines (VM)
 - VM requires minimum 1 CPU, 2GB RAM, 2GB Storage
+- Proxmark or equivalent (there will be one or two available but we recommend participants bring theirs if they have them)
+- Flipper or equivalent (there will be one or two available but we recommend participants bring theirs if they have them)
 
 ## CTF Prizes
 
