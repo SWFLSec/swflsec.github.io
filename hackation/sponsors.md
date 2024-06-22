@@ -22,6 +22,8 @@ Our Call for Sponsors is now closed. Thank you everyone who submitted to be a sp
 
 We are grateful to our sponsors for their support!
 
+## Venue Sponsor
+![ProtoAlchemy Labs](./images/logo-c.png)
 ## Badge Sponsor
 ![Red Defender Information Security](./images/Red_Defender-w.jpg)
 ## Lanyard Sponsor
@@ -55,14 +57,11 @@ We are grateful to our sponsors for their support!
 <img src="./images/tcm-logo.png" alt="TCM Security Academy" height="240">
 </a><br>
 
-## Food Sponsor
+## Water Sponsor
+![SpaceCoastsec](./images/spacecoastsec.png)
 
-## Drinks Sponsor
-
-## Tables and Chairs Sponsor
-
-## Intranet Sponsor
-
-## A/V Sponsor
-
-## Other
+## Conference Codes
+<a href="https://rstcon.org/">
+<img src="./images/RSTCON-BLK.png" alt="RSTCON" height="186">
+</a><br>
+"Hackation10" -- 10% off first 50 claimed
